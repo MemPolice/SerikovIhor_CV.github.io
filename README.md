@@ -1,2 +1,2 @@
-# IhotSerikov_CV
+# IhorSerikov_CV
 Here's the directory for CV
